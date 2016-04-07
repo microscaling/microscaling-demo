@@ -1,5 +1,5 @@
-FROM alpine:3.2
-MAINTAINER Ross Fairbanks "ross@force12.io"
+FROM alpine:3.3
+MAINTAINER Ross Fairbanks "ross@microscaling.com"
 
 COPY sleep.sh /sleep.sh
 
